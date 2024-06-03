@@ -7,6 +7,8 @@ let h3=document.querySelector('h3');
 let btns=['yellow','green','red','purple']
 
 // Add event listener..
+// keypress..
+
 document.addEventListener('keypress',function(){
     if(started==false){
         
